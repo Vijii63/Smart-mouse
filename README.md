@@ -1,1 +1,1 @@
-# Smart-mouse
+# Smart Mouse: Hand Gesture Recognition
